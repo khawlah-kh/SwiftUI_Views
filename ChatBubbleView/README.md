@@ -1,8 +1,9 @@
 
-The view that represents a single chat bubble.
-Bubble direction and color, text color and image presence are depend on message source.\
-The model represents the properties a single message.\
-In Demo file, there is a simple  has been used 
+* **ChatBubble** a helpper struct that implements Shape in order to create chat bubbles
+* **ChatBubbleView** The view that represents a single chat bubble.
+Bubble direction and color, text color and image presence are depend on message source.
+* **MessageModel** the model that represents the properties of a single message.
+* **Demo** a view that uses  ChatBubbleView to create a conversation view
 
 
 
